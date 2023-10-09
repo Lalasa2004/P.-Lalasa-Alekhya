@@ -1,4 +1,4 @@
-# Personal Information
+
 name = "lalasa alekhya"
 fname = "naidu"
 mname = "demudamma"
@@ -6,8 +6,6 @@ study = "degree"
 habits = "reading books"
 interests = "watching movies"
 favorite_color = "black"
-
-# Printing Personal Self Data
 print("Personal Self Data")
 print("------------------")
 print("lalasa alekhya", name)
