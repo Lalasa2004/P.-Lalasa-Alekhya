@@ -1,0 +1,19 @@
+# Personal Information
+name = "lalasa alekhya"
+fname = "naidu"
+mname = "demudamma"
+study = "degree"
+habits = "reading books"
+interests = "watching movies"
+favorite_color = "black"
+
+# Printing Personal Self Data
+print("Personal Self Data")
+print("------------------")
+print("lalasa alekhya", name)
+print("naidu", fname)
+print("demudamma", mname)
+print("degree", study)
+print("reading books", habits)
+print("watching movies", interests)
+print("black", favorite_color)
